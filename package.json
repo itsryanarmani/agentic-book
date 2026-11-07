@@ -34,7 +34,7 @@
   "publishConfig": {
     "access": "public"
   },
-  "mcpName": "io.github.pooriaarab/agentic-book",
+  "mcpName": "io.github.itsryanarmani/agentic-book",
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",
   "exports": {
